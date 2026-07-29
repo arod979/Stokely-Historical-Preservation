@@ -1,9 +1,27 @@
 # Stokely Historical Preservation
 # Foundation Documents v1.0.1
 
-**Document Status:** Frozen Foundation  
 **Version:** 1.0  
 **Purpose:** Establish the governing principles, architecture, and terminology for a museum-grade historical knowledge system.
+
+---
+
+## Repository Purpose
+
+The Stokely Historical Preservation repository is the institutional source of truth for the design, governance, and operation of the Stokely Universe.
+
+This repository contains:
+
+- Constitutional documents
+- Architectural decisions
+- Governance rules
+- Specifications
+- Standards
+- Decision history
+
+This repository is not the historical archive itself.
+
+Historical materials, artifacts, media, and archival resources will be managed according to the preservation architecture defined here.
 
 ---
 
